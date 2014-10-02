@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T16:45:24Z" product-name="trb_ce_map">
+		<header/>
+		<body>
+			<!-- CType -->
+			<trans-unit id="ctype.name"><source>Map</source></trans-unit>
+			<trans-unit id="ctype.description"><source>Map</source></trans-unit>
+			
+			<!-- Palettes -->
+			<trans-unit id="palette.map"><source>Map</source></trans-unit>
+			
+			<!-- Columns -->
+			<trans-unit id="column.name"><source>Name</source></trans-unit>
+			<trans-unit id="column.address"><source>Address</source></trans-unit>
+			<trans-unit id="column.aspect"><source>Aspect</source></trans-unit>
+			<trans-unit id="column.map"><source>Map</source></trans-unit>
+			<trans-unit id="column.height"><source>Height</source></trans-unit>
+		</body>
+	</file>
+</xliff>

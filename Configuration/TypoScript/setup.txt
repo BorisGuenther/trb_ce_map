@@ -1,0 +1,7 @@
+plugin.tx_trbcemap {
+	view {
+		templateRootPath = {$plugin.tx_trbcemap.view.templateRootPath}
+		partialRootPath = {$plugin.tx_trbcemap.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_trbcemap.view.layoutRootPath}
+	}
+}
